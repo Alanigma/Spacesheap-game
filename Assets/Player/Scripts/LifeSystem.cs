@@ -5,6 +5,7 @@ public class LifeSystem : MonoBehaviour
 {
     [SerializeField] protected float m_BaseSpeed;
     [SerializeField] protected UnityEvent m_TakeDamageEvents;
+    [SerializeField] protected UnityEvent m_DeathEvents;
     public float m_ScoreValue;
     protected Vector3 m_Speed;
     public float m_Life;
@@ -22,6 +23,7 @@ public class LifeSystem : MonoBehaviour
 
     public void Death()
     {
+        m_DeathEvents?.Invoke();
         Destroy(gameObject);
     }
 }
