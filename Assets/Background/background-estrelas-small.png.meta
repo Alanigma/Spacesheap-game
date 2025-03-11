@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 9055a208ae6e8754fb36e79e249e3c1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1399405803302256984
+    second: background-estrelas-small_0
+  - first:
+      213: -5487136439240976580
+    second: background-estrelas-small_1
+  - first:
+      213: -5409017648523778543
+    second: background-estrelas-small_2
+  - first:
+      213: -1747080633186935633
+    second: background-estrelas-small_3
+  - first:
+      213: 6263137464353518043
+    second: background-estrelas-small_4
+  - first:
+      213: -7489933374371527096
+    second: background-estrelas-small_5
+  - first:
+      213: -5442366105757932057
+    second: background-estrelas-small_6
+  - first:
+      213: -2794738516232150263
+    second: background-estrelas-small_7
+  - first:
+      213: 8333031472802940409
+    second: background-estrelas-small_8
+  - first:
+      213: 3479206242502611042
+    second: background-estrelas-small_9
+  - first:
+      213: -3398550765989961680
+    second: background-estrelas-small_10
+  - first:
+      213: -9093631487879036054
+    second: background-estrelas-small_11
+  - first:
+      213: -2504604065871655740
+    second: background-estrelas-small_12
+  - first:
+      213: 6408397982522594743
+    second: background-estrelas-small_13
+  - first:
+      213: 8287406411273205110
+    second: background-estrelas-small_14
+  - first:
+      213: 3430121767349766036
+    second: background-estrelas-small_15
+  - first:
+      213: 704764622782788603
+    second: background-estrelas-small_16
+  - first:
+      213: -8264228069097396018
+    second: background-estrelas-small_17
+  - first:
+      213: 493025079506150992
+    second: background-estrelas-small_18
+  - first:
+      213: 4825022120822133778
+    second: background-estrelas-small_19
+  - first:
+      213: -8165840176400039601
+    second: background-estrelas-small_20
+  - first:
+      213: 6866011830794928463
+    second: background-estrelas-small_21
+  - first:
+      213: 2651919840011982691
+    second: background-estrelas-small_22
+  - first:
+      213: 7870703369707411676
+    second: background-estrelas-small_23
+  - first:
+      213: 6046904770304453883
+    second: background-estrelas-small_24
+  - first:
+      213: -1988653094439707707
+    second: background-estrelas-small_25
+  - first:
+      213: 7659779027951941798
+    second: background-estrelas-small_26
+  - first:
+      213: -2087031535666107940
+    second: background-estrelas-small_27
+  - first:
+      213: 2499914011206461270
+    second: background-estrelas-small_28
+  - first:
+      213: -5878359712640237450
+    second: background-estrelas-small_29
+  - first:
+      213: -346959213162366589
+    second: background-estrelas-small_30
+  - first:
+      213: -1002889681948975090
+    second: background-estrelas-small_31
+  - first:
+      213: -4576941668859153077
+    second: background-estrelas-small_32
+  - first:
+      213: -7027704790967752730
+    second: background-estrelas-small_33
+  - first:
+      213: -6630322638250608510
+    second: background-estrelas-small_34
+  - first:
+      213: -2900823272444983078
+    second: background-estrelas-small_35
+  - first:
+      213: 2907519372533682260
+    second: background-estrelas-small_36
+  - first:
+      213: -8725813529584111188
+    second: background-estrelas-small_37
+  - first:
+      213: 8529856974320925632
+    second: background-estrelas-small_38
+  - first:
+      213: 768004419010563645
+    second: background-estrelas-small_39
+  - first:
+      213: -598793204667023601
+    second: background-estrelas-small_40
+  - first:
+      213: 4702075022730745146
+    second: background-estrelas-small_41
+  - first:
+      213: -3158413912600627919
+    second: background-estrelas-small_42
+  - first:
+      213: -6861984177436500702
+    second: background-estrelas-small_43
+  - first:
+      213: -7127803564676100828
+    second: background-estrelas-small_44
+  - first:
+      213: 1155225554814705208
+    second: background-estrelas-small_45
+  - first:
+      213: 7514879776715348015
+    second: background-estrelas-small_46
+  - first:
+      213: 5506579592583192026
+    second: background-estrelas-small_47
+  - first:
+      213: -1921383339216282501
+    second: background-estrelas-small_48
+  - first:
+      213: -8166373104139587933
+    second: background-estrelas-small_49
+  - first:
+      213: 7737212049499459495
+    second: background-estrelas-small_50
+  - first:
+      213: -639469765865189297
+    second: background-estrelas-small_51
+  - first:
+      213: -1895096369708176962
+    second: background-estrelas-small_52
+  - first:
+      213: -8590725835655134586
+    second: background-estrelas-small_53
+  - first:
+      213: -3582632950101018132
+    second: background-estrelas-small_54
+  - first:
+      213: 5477969169000782703
+    second: background-estrelas-small_55
+  - first:
+      213: 1496158976585244812
+    second: background-estrelas-small_56
+  - first:
+      213: -2478241461308304899
+    second: background-estrelas-small_57
+  - first:
+      213: -4210163531854528917
+    second: background-estrelas-small_58
+  - first:
+      213: 8553278481430995353
+    second: background-estrelas-small_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background-estrelas-small_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 222
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851837ae920bb6310800000000000000
+      internalID: 1399405803302256984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_1
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 229
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3790f80b76c9d3b0800000000000000
+      internalID: -5487136439240976580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116ebeb5b1f4fe4b0800000000000000
+      internalID: -5409017648523778543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 205
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac9de8ab6f11c7e0800000000000000
+      internalID: -1747080633186935633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 211
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd17b3e17522be650800000000000000
+      internalID: 6263137464353518043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 199
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8460e3587496e0890800000000000000
+      internalID: -7489933374371527096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 203
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e52ca89cd4d874b0800000000000000
+      internalID: -5442366105757932057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90361eb60281739d0800000000000000
+      internalID: -2794738516232150263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 203
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5c19669ffd4a370800000000000000
+      internalID: 8333031472802940409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 184
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26090b8d4af984030800000000000000
+      internalID: 3479206242502611042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 197
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030690aa51ce5d0d0800000000000000
+      internalID: -3398550765989961680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 185
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c9a6875eecc180800000000000000
+      internalID: -9093631487879036054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 161
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc88be3fdbdd3dd0800000000000000
+      internalID: -2504604065871655740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5d69f03043fe850800000000000000
+      internalID: 6408397982522594743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 136
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675fb35f838c20370800000000000000
+      internalID: 8287406411273205110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 167
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497c737e29d3a9f20800000000000000
+      internalID: 3430121767349766036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3fa3fb0b3d7c900800000000000000
+      internalID: 704764622782788603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 148
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec823ae5b509f4d80800000000000000
+      internalID: -8264228069097396018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 150
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a25992b397d600800000000000000
+      internalID: 493025079506150992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 139
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21451090e0ce5f240800000000000000
+      internalID: 4825022120822133778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 135
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f410011cf9b1dae80800000000000000
+      internalID: -8165840176400039601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f414926e169f84f50800000000000000
+      internalID: 6866011830794928463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_22
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36799b44b038dc420800000000000000
+      internalID: 2651919840011982691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 123
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd851e3930b5a3d60800000000000000
+      internalID: 7870703369707411676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 125
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcac98c9dbeae350800000000000000
+      internalID: 6046904770304453883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb90740c82e664e0800000000000000
+      internalID: -1988653094439707707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_26
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 110
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8ff0351700d4a60800000000000000
+      internalID: 7659779027951941798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_27
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 76
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9659930ef5903e0800000000000000
+      internalID: -2087031535666107940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 83
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657abfe4c8a71b220800000000000000
+      internalID: 2499914011206461270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_29
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 88
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6708c1a7cfedb6ea0800000000000000
+      internalID: -5878359712640237450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_30
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38978e31f6a5f2bf0800000000000000
+      internalID: -346959213162366589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 102
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e686d5250512f0800000000000000
+      internalID: -1002889681948975090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 90
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4577f54dcf6b70c0800000000000000
+      internalID: -4576941668859153077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 69
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e76e0c1ab3987e90800000000000000
+      internalID: -7027704790967752730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 107
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28877d080bc5cf3a0800000000000000
+      internalID: -6630322638250608510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80bb95a943eb7d0800000000000000
+      internalID: -2900823272444983078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 54
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450df61f675995820800000000000000
+      internalID: 2907519372533682260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_37
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 40
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca177d083dea7e680800000000000000
+      internalID: -8725813529584111188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 67
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb794b99b3206670800000000000000
+      internalID: 8529856974320925632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 41
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e0e0533ff78aa00800000000000000
+      internalID: 768004419010563645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_40
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 30
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f77edb0c8a0b7f0800000000000000
+      internalID: -598793204667023601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a355a1d0250214140800000000000000
+      internalID: 4702075022730745146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135b9cdc74f0b24d0800000000000000
+      internalID: -3158413912600627919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ddb893fb555c0a0800000000000000
+      internalID: -6861984177436500702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dc7b23c64f41d90800000000000000
+      internalID: -7127803564676100828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e1f2e758f280010800000000000000
+      internalID: 1155225554814705208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2892e467573a4860800000000000000
+      internalID: 7514879776715348015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add165fd6fc4b6c40800000000000000
+      internalID: 5506579592583192026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd8ac6800e555e0800000000000000
+      internalID: -1921383339216282501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 6
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aea478dde63bae80800000000000000
+      internalID: -8166373104139587933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 12
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af89429d59106b60800000000000000
+      internalID: 7737212049499459495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_51
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 11
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40d001d2a52027f0800000000000000
+      internalID: -639469765865189297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_52
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9696474e343b5e0800000000000000
+      internalID: -1895096369708176962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_53
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682410b3e5c97c880800000000000000
+      internalID: -8590725835655134586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97e90405ee74ec0800000000000000
+      internalID: -3582632950101018132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b55d88fe7a50c40800000000000000
+      internalID: 5477969169000782703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8020e689ac63c410800000000000000
+      internalID: 1496158976585244812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_57
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d21f65848b9dd0800000000000000
+      internalID: -2478241461308304899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_58
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eb18df29e7295c0800000000000000
+      internalID: -4210163531854528917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-estrelas-small_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991efae267953b670800000000000000
+      internalID: 8553278481430995353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      background-estrelas-small_0: 1399405803302256984
+      background-estrelas-small_1: -5487136439240976580
+      background-estrelas-small_10: -3398550765989961680
+      background-estrelas-small_11: -9093631487879036054
+      background-estrelas-small_12: -2504604065871655740
+      background-estrelas-small_13: 6408397982522594743
+      background-estrelas-small_14: 8287406411273205110
+      background-estrelas-small_15: 3430121767349766036
+      background-estrelas-small_16: 704764622782788603
+      background-estrelas-small_17: -8264228069097396018
+      background-estrelas-small_18: 493025079506150992
+      background-estrelas-small_19: 4825022120822133778
+      background-estrelas-small_2: -5409017648523778543
+      background-estrelas-small_20: -8165840176400039601
+      background-estrelas-small_21: 6866011830794928463
+      background-estrelas-small_22: 2651919840011982691
+      background-estrelas-small_23: 7870703369707411676
+      background-estrelas-small_24: 6046904770304453883
+      background-estrelas-small_25: -1988653094439707707
+      background-estrelas-small_26: 7659779027951941798
+      background-estrelas-small_27: -2087031535666107940
+      background-estrelas-small_28: 2499914011206461270
+      background-estrelas-small_29: -5878359712640237450
+      background-estrelas-small_3: -1747080633186935633
+      background-estrelas-small_30: -346959213162366589
+      background-estrelas-small_31: -1002889681948975090
+      background-estrelas-small_32: -4576941668859153077
+      background-estrelas-small_33: -7027704790967752730
+      background-estrelas-small_34: -6630322638250608510
+      background-estrelas-small_35: -2900823272444983078
+      background-estrelas-small_36: 2907519372533682260
+      background-estrelas-small_37: -8725813529584111188
+      background-estrelas-small_38: 8529856974320925632
+      background-estrelas-small_39: 768004419010563645
+      background-estrelas-small_4: 6263137464353518043
+      background-estrelas-small_40: -598793204667023601
+      background-estrelas-small_41: 4702075022730745146
+      background-estrelas-small_42: -3158413912600627919
+      background-estrelas-small_43: -6861984177436500702
+      background-estrelas-small_44: -7127803564676100828
+      background-estrelas-small_45: 1155225554814705208
+      background-estrelas-small_46: 7514879776715348015
+      background-estrelas-small_47: 5506579592583192026
+      background-estrelas-small_48: -1921383339216282501
+      background-estrelas-small_49: -8166373104139587933
+      background-estrelas-small_5: -7489933374371527096
+      background-estrelas-small_50: 7737212049499459495
+      background-estrelas-small_51: -639469765865189297
+      background-estrelas-small_52: -1895096369708176962
+      background-estrelas-small_53: -8590725835655134586
+      background-estrelas-small_54: -3582632950101018132
+      background-estrelas-small_55: 5477969169000782703
+      background-estrelas-small_56: 1496158976585244812
+      background-estrelas-small_57: -2478241461308304899
+      background-estrelas-small_58: -4210163531854528917
+      background-estrelas-small_59: 8553278481430995353
+      background-estrelas-small_6: -5442366105757932057
+      background-estrelas-small_7: -2794738516232150263
+      background-estrelas-small_8: 8333031472802940409
+      background-estrelas-small_9: 3479206242502611042
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
