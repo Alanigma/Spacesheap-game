@@ -1,10 +1,11 @@
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.InputSystem;
 
 public class PlayerMoviment : LifeSystem
 {
     Vector2 m_Direction;
-    [SerializeField] TMPro.TMP_Text m_LifeText;
+    [SerializeField] Image m_LifeIcon;
 
     private void FixedUpdate()
     {
@@ -19,6 +20,6 @@ public class PlayerMoviment : LifeSystem
     public override void TakeDamage(float _Damage)
     {
         base.TakeDamage(_Damage);
-        m_LifeText.text = m_Life.ToString();
+        m_LifeIcon.material.SetFloat("_AlphaY", (3 - m_Life) / 3);
     }
 }
