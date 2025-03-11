@@ -31,8 +31,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
-  m_ConstrainProportionsScale: 1
+  m_LocalScale: {x: 0.15, y: 0.18, z: 0.15}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -59,7 +59,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: d50f1581e10ab5d4aa9b208499f7a094, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -141,6 +141,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TargetLayer: 6
   m_Damage: 1
+  m_ScoreManager: {fileID: 0}
 --- !u!50 &5329366148380542649
 Rigidbody2D:
   serializedVersion: 5
@@ -181,4 +182,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BaseSpeed: 0.2
+  m_TakeDamageEvents:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ScoreValue: 0
   m_Life: 1

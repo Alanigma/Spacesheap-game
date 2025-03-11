@@ -4,6 +4,7 @@ using UnityEngine;
 public class PlayerWeapon : MonoBehaviour
 {
     [SerializeField] GameObject m_BulletPrefab;
+    [SerializeField] GameObject m_BulletSpeedPrefab;
     [SerializeField] Transform m_FirePoint;
     [SerializeField] float m_AttackSpeed;
     [SerializeField] ScoreCount m_ScoreManager;
@@ -27,10 +28,10 @@ public class PlayerWeapon : MonoBehaviour
 
     public void Shot()
     {
-        Instantiate(m_BulletPrefab, m_FirePoint.position, Quaternion.identity).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;
+        Instantiate(m_AttackSpeedMultiplier > 1 ? m_BulletSpeedPrefab : m_BulletPrefab, m_FirePoint.position, Quaternion.identity).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;
         if (!m_TripleShot) return;
-        Instantiate(m_BulletPrefab, m_FirePoint.position, Quaternion.Euler(Vector3.forward * 25)).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;
-        Instantiate(m_BulletPrefab, m_FirePoint.position, Quaternion.Euler(Vector3.forward * -25)).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;
+        Instantiate(m_AttackSpeedMultiplier > 1 ? m_BulletSpeedPrefab : m_BulletPrefab, m_FirePoint.position, Quaternion.Euler(Vector3.forward * 25)).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;
+        Instantiate(m_AttackSpeedMultiplier > 1 ? m_BulletSpeedPrefab : m_BulletPrefab, m_FirePoint.position, Quaternion.Euler(Vector3.forward * -25)).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;
 
     }
 
