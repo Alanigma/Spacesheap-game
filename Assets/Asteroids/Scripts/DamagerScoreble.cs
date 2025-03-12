@@ -3,6 +3,7 @@ using UnityEngine;
 public class DamagerScoreble : Damager
 {
     public ScoreCount m_ScoreManager;
+    public GameObject m_BreakSound;
 
     protected override void OnCollisionEnter2D(Collision2D collision)
     {
@@ -12,7 +13,10 @@ public class DamagerScoreble : Damager
             {
                 _LifeSystem.TakeDamage(m_Damage);
                 if (_LifeSystem.m_Life <= 0)
+                {
                     m_ScoreManager.AddPoint(_LifeSystem.m_ScoreValue);
+                    Destroy(Instantiate(m_BreakSound), 1);
+                }
             }
         }
     }

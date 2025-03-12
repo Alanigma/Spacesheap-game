@@ -3,6 +3,7 @@ using UnityEngine;
 
 public class PlayerWeapon : MonoBehaviour
 {
+    [SerializeField] AudioSource m_ShotSound;
     [SerializeField] GameObject m_BulletPrefab;
     [SerializeField] GameObject m_BulletSpeedPrefab;
     [SerializeField] Transform m_FirePoint;
@@ -28,6 +29,7 @@ public class PlayerWeapon : MonoBehaviour
 
     public void Shot()
     {
+        m_ShotSound.Play();
         Instantiate(m_AttackSpeedMultiplier > 1 ? m_BulletSpeedPrefab : m_BulletPrefab, m_FirePoint.position, Quaternion.identity).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;
         if (!m_TripleShot) return;
         Instantiate(m_AttackSpeedMultiplier > 1 ? m_BulletSpeedPrefab : m_BulletPrefab, m_FirePoint.position, Quaternion.Euler(Vector3.forward * 25)).GetComponent<DamagerScoreble>().m_ScoreManager = m_ScoreManager;

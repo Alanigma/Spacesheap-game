@@ -142,6 +142,7 @@ MonoBehaviour:
   m_TargetLayer: 6
   m_Damage: 1
   m_ScoreManager: {fileID: 0}
+  m_BreakSound: {fileID: 4317453668354900515, guid: 218a11c5722db974dbfe1f3810139561, type: 3}
 --- !u!50 &5329366148380542649
 Rigidbody2D:
   serializedVersion: 5
@@ -183,6 +184,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_BaseSpeed: 0.2
   m_TakeDamageEvents:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeathEvents:
     m_PersistentCalls:
       m_Calls: []
   m_ScoreValue: 0
