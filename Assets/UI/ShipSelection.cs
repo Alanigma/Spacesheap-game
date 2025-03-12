@@ -58,6 +58,18 @@ public class ShipSelection : MonoBehaviour
             m_OutlinesDown[m_Collumn].enabled = true;
     }
 
+    public void MouseSelectionX(float _Index)
+    {
+        m_Collumn = (int)_Index;
+        UpdateSelected();
+    }
+
+    public void MouseSelectionY(bool _Value)
+    {
+        m_LineUp = _Value;
+        UpdateSelected();
+    }
+
     public void ConfirmSelection(InputAction.CallbackContext _Value)
     {
         if (m_Confirmed) return;
