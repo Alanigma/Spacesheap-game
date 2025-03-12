@@ -31,4 +31,8 @@ public class PlayerMoviment : LifeSystem
         m_LifeIcon.material.SetFloat("_AlphaY", (3 - m_Life) / 3);
     }
 
+    public override void Death()
+    {
+        m_DeathEvents?.Invoke();
+    }
 }
