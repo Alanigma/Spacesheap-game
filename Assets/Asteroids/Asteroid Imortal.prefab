@@ -52,8 +52,12 @@ MonoBehaviour:
   m_TakeDamageEvents:
     m_PersistentCalls:
       m_Calls: []
+  m_DeathEvents:
+    m_PersistentCalls:
+      m_Calls: []
   m_ScoreValue: 0
   m_Life: 800
+  m_DestroyVFX: {fileID: 7577074375135971232, guid: b012380b27662104294252f9abe82707, type: 3}
 --- !u!58 &1280460863820913626
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -183,6 +187,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: 534e0aa48b645704dadf17731cef0c0e, type: 3}
+    - target: {fileID: 3908808947165970616, guid: 584ad4d476137f54fb2f8da79e6c61a6, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4279482214941954931, guid: 584ad4d476137f54fb2f8da79e6c61a6, type: 3}
       propertyPath: m_Name
       value: Sprite

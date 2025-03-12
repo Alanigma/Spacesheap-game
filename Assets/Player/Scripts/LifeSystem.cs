@@ -21,7 +21,7 @@ public class LifeSystem : MonoBehaviour
         }
     }
 
-    public void Death()
+    public virtual void Death()
     {
         m_DeathEvents?.Invoke();
         Destroy(gameObject);
