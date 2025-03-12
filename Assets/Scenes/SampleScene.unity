@@ -2096,7 +2096,7 @@ MonoBehaviour:
   m_ScoreValue: 0
   m_Life: 3
   m_LifeIcon: {fileID: 980610343}
-  m_BackgroundSpeed: 10
+  m_BackgroundSpeed: 200
 --- !u!4 &1101605534
 Transform:
   m_ObjectHideFlags: 0

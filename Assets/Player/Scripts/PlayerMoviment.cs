@@ -12,8 +12,12 @@ public class PlayerMoviment : LifeSystem
     private void FixedUpdate()
     {
         transform.position += new Vector3(m_Direction.x, m_Direction.y) * m_BaseSpeed;
-        m_BackgroundMoviment += m_BackgroundSpeed;
-        ObserverPlayer.m_OnPlayerMove(Vector2.one * m_BackgroundMoviment);
+    }
+
+    private void Update()
+    {
+        m_BackgroundMoviment += m_BackgroundSpeed * Time.unscaledDeltaTime;
+        ObserverPlayer.m_OnPlayerMove(m_BackgroundMoviment * Vector3.one);        
     }
 
     public void SetInputMoviment(InputAction.CallbackContext value)
