@@ -8,7 +8,6 @@ public class RunManager : MonoBehaviour
 
     public void Restart(InputAction.CallbackContext _Value)
     {
-        print(_Value.ReadValue<float>());
         if(m_CanRestart && _Value.ReadValue<float>() == 0)
             SceneManager.LoadScene(0);
     }
