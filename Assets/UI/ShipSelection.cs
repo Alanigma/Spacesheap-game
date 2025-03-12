@@ -13,6 +13,7 @@ public class ShipSelection : MonoBehaviour
     [SerializeField] int m_Collumn;
     [SerializeField] SpriteRenderer m_PlayerSprite;
     [SerializeField] Image m_LifeImage;
+    bool m_Confirmed;
 
     private void Start()
     {
@@ -59,8 +60,10 @@ public class ShipSelection : MonoBehaviour
 
     public void ConfirmSelection(InputAction.CallbackContext _Value)
     {
+        if (m_Confirmed) return;
         m_PlayerSprite.sprite = m_LineUp ? m_OutlinesUpSprite[m_Collumn].sprite : m_OutlinesDownSprite[m_Collumn].sprite;
         m_LifeImage.sprite = m_LineUp ? m_OutlinesUpSprite[m_Collumn].sprite : m_OutlinesDownSprite[m_Collumn].sprite;
+        m_Confirmed = true;
         Time.timeScale = 1;
         gameObject.SetActive(false);
     }
