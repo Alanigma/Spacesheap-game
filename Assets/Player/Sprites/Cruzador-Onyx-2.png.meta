@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: fcc11b7ba1740274db7209dc4797bbb3
+guid: ab070ff69f9096a40b674c8eff3fa92a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7808302741764767300
-    second: Nave-inicial-2_0
+      213: -7998049723007260015
+    second: Cruzador-Onyx-2_0
+  - first:
+      213: 4928161073285692544
+    second: Cruzador-Onyx-2_1
+  - first:
+      213: 2850933531572386680
+    second: Cruzador-Onyx-2_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nave-inicial-2_0
+      name: Cruzador-Onyx-2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 123
-        height: 145
+        y: 99
+        width: 121
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb1076ac60653a390800000000000000
-      internalID: -7808302741764767300
+      spriteID: 19aad340728310190800000000000000
+      internalID: -7998049723007260015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cruzador-Onyx-2_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 24
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cf919b268546440800000000000000
+      internalID: 4928161073285692544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cruzador-Onyx-2_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 24
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b3f9b21fc809720800000000000000
+      internalID: 2850933531572386680
       vertices: []
       indices: 
       edges: []
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nave-inicial-2_0: -7808302741764767300
+      Cruzador-Onyx-2_0: -7998049723007260015
+      Cruzador-Onyx-2_1: 4928161073285692544
+      Cruzador-Onyx-2_2: 2850933531572386680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

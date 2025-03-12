@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: fcc11b7ba1740274db7209dc4797bbb3
+guid: cb305f5d2742e324ca06041effcc394a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7808302741764767300
-    second: Nave-inicial-2_0
+      213: 947720971621395049
+    second: Emperor-2_0
+  - first:
+      213: 5292872128217958404
+    second: Emperor-2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -49,9 +52,9 @@ TextureImporter:
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 2
-  spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.75}
+  spritePixelsToUnits: 120
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 0
   alphaUsage: 1
@@ -72,7 +75,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 256
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nave-inicial-2_0
+      name: Emperor-2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 123
-        height: 145
+        width: 193
+        height: 283
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cb1076ac60653a390800000000000000
-      internalID: -7808302741764767300
+      spriteID: 96a6ea3d33bf62d00800000000000000
+      internalID: 947720971621395049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Emperor-2_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 258
+        width: 27
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4084ff3682f047940800000000000000
+      internalID: 5292872128217958404
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nave-inicial-2_0: -7808302741764767300
+      Emperor-2_0: 947720971621395049
+      Emperor-2_1: 5292872128217958404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
